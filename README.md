@@ -2,4 +2,4 @@
 ![]lat_cloud.png
 ![]lat_hum.png
 ![]lat_maxtemp.png
-![]lat_wind.mpg
+![]lat_wind.png
