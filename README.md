@@ -1,5 +1,9 @@
 # homework-wk5
-![]lat_cloud.png
-![]lat_hum.png
-![]lat_maxtemp.png
-![]lat_wind.png
+#Latitude vs Cloudiness
+![](https://github.com/hafsa-said/homework-wk5/blob/main/lat_cloud.png)
+#Latitude vs Humidity
+![](https://github.com/hafsa-said/homework-wk5/blob/main/lat_hum.png)
+#Latitude vs Max Temp
+![](https://github.com/hafsa-said/homework-wk5/blob/main/lat_maxtemp.png)
+#Latitude vs Wind
+![](https://github.com/hafsa-said/homework-wk5/blob/main/lat_wind.png)
